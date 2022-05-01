@@ -1,11 +1,19 @@
-### 안녕하세요 👋
+👋 안녕하세요 
+🖥 저는 Fullstack 으로 일하는 것을 좋아 합니다.
+🔄 애자일 하게 제품을 개발하고, 
+💪 팀의 성장을 돕는 일을 하고 있습니다. 
+
 
 ## 블로그 : https://kihoonkim.github.io/
 - [페어 프로그래밍이란 무엇 일까?](https://kihoonkim.github.io/2018/01/01/Agile/pair-programming/)
 - [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
 
 ## 세미나 : https://www.slideshare.net/koreakihoon
-- 
+- [Microservices Architecture](https://www.slideshare.net/koreakihoon/msa-retro)
+- [OOP](https://www.slideshare.net/koreakihoon/object-oriented-programming-249937439)
+- [JS SingleThread](https://www.slideshare.net/koreakihoon/javascript-single-thread)
+- [Frontend Testing](https://www.slideshare.net/koreakihoon/frontend-testing)
+- [TDD](https://www.slideshare.net/koreakihoon/tdd-112099012)
 
 ## Tech Stack
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
