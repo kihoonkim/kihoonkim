@@ -4,6 +4,9 @@
 💪 팀의 성장을 돕는 일을 하고 있습니다.   
 
 
+## 주요 제품
+- [마림바](https://www.marimba.team/)
+
 
 ## 블로그 : https://kihoonkim.github.io/
 - [페어 프로그래밍이란 무엇 일까?](https://kihoonkim.github.io/2018/01/01/Agile/pair-programming/)
