@@ -1,4 +1,11 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+## 블로그 : https://kihoonkim.github.io/
+- [페어 프로그래밍이란 무엇 일까?](https://kihoonkim.github.io/2018/01/01/Agile/pair-programming/)
+- [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
+
+## 세미나 : https://www.slideshare.net/koreakihoon
+- 
 
 ## Tech Stack
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
