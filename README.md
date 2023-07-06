@@ -4,8 +4,8 @@
 💪 팀의 성장을 돕는 일을 하고 있습니다.   
 
 
-## 주요 제품
-- [마림바](https://www.marimba.team/)
+## 홈페이지
+- [DEV:KI](https://kihoon.dev)
 
 
 ## 블로그 : https://kihoonkim.github.io/
